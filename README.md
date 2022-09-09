@@ -8,5 +8,6 @@
 - 😄 Posso cooperar em projetos com NodeJS, ReactJS e React-Native. 
 
 - 📫 Meus contatos são: (41) 99801-3918 / eucomcerteza@gmail.com
+<img src="images/Discord.svg">Discord
 - Linkedin: https://www.linkedin.com/in/florivaldo-dos-santos-junior-618138122/
 
