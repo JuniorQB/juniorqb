@@ -6,10 +6,10 @@
 
 ### Sobre mim 👋
 
-
 - 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados
 - 🌱 Apaixonado por Desenvolvimento, estou buscando me especializar em NodeJS, ReactJS e React-Native 
- 
+ <hr/>
+ <br />
 <h3 align="center">Meus contatos</h3>
 <br/> 
 <div align="center">
@@ -19,7 +19,9 @@
 <a href="https://discordapp.com/users/JuniorQb#8286"><img src="images/Discord.svg" style="width:48px"></a>&nbsp;&nbsp;
 </div>
 <br />
+
 <br />
+
 <h3 align="center">Linguagens e Ferramentas</h3>
 <br/> 
 <div align="center">
