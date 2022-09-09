@@ -2,12 +2,10 @@
 <html lang="en">
 
 <body>
-# Junior
 
-### Sobre mim 👋
+<h3 align="center">Sobre mim</h3>
+Me chamo Junior, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados. Apaixonado por Desenvolvimento, estou me esperfeiçoando em NodeJS, ReactJS e React-Native.
 
-- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados
-- 🌱 Apaixonado por Desenvolvimento, estou buscando me especializar em NodeJS, ReactJS e React-Native 
  <hr/>
  <br />
 <h3 align="center">Meus contatos</h3>
