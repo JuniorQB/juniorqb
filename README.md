@@ -4,7 +4,8 @@
 <body>
 
 <h3 align="center">Sobre mim</h3>
-Me chamo Junior, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados. Apaixonado por Desenvolvimento, estou me esperfeiçoando em NodeJS, ReactJS e React-Native.
+<div align="center">Me chamo Junior, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados. Apaixonado por Desenvolvimento, estou me esperfeiçoando em NodeJS, ReactJS e React-Native.
+</div>
 
  <hr/>
  <br />
