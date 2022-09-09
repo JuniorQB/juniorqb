@@ -25,25 +25,25 @@
 <h3 align="center">Linguagens e Ferramentas</h3>
 <br/> 
 <div align="center">
-<img src="images/nodejs.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/react2.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/typescript.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/javascript.svg" style="width:48px"> &nbsp;&nbsp;
+<a href="#"><img src="images/nodejs.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/react2.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/typescript.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/javascript.svg" style="width:48px"></a> &nbsp;&nbsp;
 
 </div>
 <br/>
 <div align="center">
-<img src="images/Babel.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/css3.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/webpack.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/Figma.svg" style="width:48px"> &nbsp;&nbsp;
+<a href="#"><img src="images/Babel.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/css3.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/webpack.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/Figma.svg" style="width:48px"></a> &nbsp;&nbsp;
 </div>
 <br/>
 <div align="center">
-<img src="images/html5.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/insomnia.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/docker.svg" style="width:48px"> &nbsp;&nbsp;
-<img src="images/mongodb.svg" style="width:48px"> &nbsp;&nbsp;
+<a href="#"><img src="images/html5.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/insomnia.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/docker.svg" style="width:48px"></a> &nbsp;&nbsp;
+<a href="#"><img src="images/mongodb.svg" style="width:48px"></a> &nbsp;&nbsp;
 </div>
 
 
