@@ -3,11 +3,12 @@
 
 <body>
 
-<h3 align="center">Sobre mim</h3>
-<div align="center">Me chamo Junior, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Jogos Digitais e Ciência de Dados. Apaixonado por Desenvolvimento, estou me esperfeiçoando em NodeJS, ReactJS e React-Native.
+<h2>Olá!! Me chamo Junior</h2>
+<div align="center">Sou formado em Análise e Desenvolvimento de Sistemas, Pós-graduado em Jogos Digitais e também em Ciência de Dados. <br />
+Possuo habilidades com .NET Core, REST API, Entity Framework, JavaScript, TypeScript. 
+ <br />Estou buscando me desenvolver a cada dia mais para potencializar minhas habilidades e contribuir de forma significativa em projetos inovadores. Com dedicação e paixão pela tecnologia, estou sempre em busca de aprender e me aprimorar.
 </div>
 
- <hr/>
  <br />
 <h3 align="center">Meus contatos</h3>
 <br/> 
@@ -20,7 +21,7 @@
 <br />
 
 <br />
-
+<!--
 <h3 align="center">Linguagens e Ferramentas</h3>
 <br/> 
 <div align="center">
@@ -45,7 +46,7 @@
 <a href="#"><img src="images/mongodb.svg" style="width:48px"></a> &nbsp;&nbsp;
 </div>
 
-
+-->
 
 </body>
 </html>
