@@ -5,7 +5,7 @@
 
 <h2>Olá!! Me chamo Junior</h2>
 <div align="center">Sou formado em Análise e Desenvolvimento de Sistemas, Pós-graduado em Jogos Digitais e também em Ciência de Dados. <br />
-Possuo habilidades com .NET Core, REST API, Entity Framework, JavaScript, TypeScript. 
+Possuo habilidades com .NET Core, REST API, Entity Framework, React Native, JavaScript, TypeScript. 
  <br />Estou buscando me desenvolver a cada dia mais para potencializar minhas habilidades e contribuir de forma significativa em projetos inovadores. Com dedicação e paixão pela tecnologia, estou sempre em busca de aprender e me aprimorar.
 </div>
 
